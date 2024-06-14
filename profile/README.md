@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este repositório contém o código fonte do Projeto de Conclusão de Curso para a Raia Drogasil, desenvolvido por ** Gabriela Xavier, Guilherme Cardozo, Isabella Yoshiyke, Matheus Scola**. O projeto está dividido em quatro módulos que podem ser integrados: Cliente, Loja, Fornecedor e Logística. Este repositório especificamente aborda o módulo **Cliente**, que é responsável pelo registro da conta do cliente e seu relacionamento com a RD.
+Este repositório contém o código fonte do Projeto de Conclusão de Curso para a Raia Drogasil, desenvolvido por **Ana Santos, Gabriela Xavier, Guilherme Cardozo, Isabella Yoshiyke, Matheus Scola**. O projeto está dividido em quatro módulos que podem ser integrados: Cliente, Loja, Fornecedor e Logística. Este repositório especificamente aborda o módulo **Cliente**, que é responsável pelo registro da conta do cliente e seu relacionamento com a RD.
 
 ## Módulo Cliente
 
